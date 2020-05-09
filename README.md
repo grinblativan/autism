@@ -1,4 +1,3 @@
-# grinblativan.github.io
 <h1>Это заголовок</h1>
 
 <p>
