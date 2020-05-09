@@ -8,4 +8,4 @@
 
 <img src="http://lorempixel.com/200/150/cats/" alt="Красивая картинка">
 </p>
-<img src="https://github.com/grinblativan/grinblativan.github.io/blob/master/autism-3759586_960_720.jpg>
+[autism-3759586_960_720.jpg]
