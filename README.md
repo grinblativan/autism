@@ -5,6 +5,6 @@
     <a href="http://google.com/">ссылка на Гугл</a>. 
     После текста идет картинка:
 
-<img src="http://lorempixel.com/200/150/cats/" alt="Красивая картинка">
+<img src="autism-3759586_960_720.jpg">
 
 ![fenbpv](autism-3759586_960_720.jpg)
