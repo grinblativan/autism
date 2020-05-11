@@ -4,12 +4,7 @@
     Это абзац текста, в котором содержится 
     <a href="http://google.com/">ссылка на Гугл</a>.
 	
-<div class="tools"> 
-<div style="float: right;">Текст справа</div> 
-</div>
-
-
-    После текста идет картинка:
+	После текста идет картинка:
 <img src="autism-3759586_960_720.jpg">
 
 <html lang="ru-RU" prefix="og: http://ogp.me/ns#">
