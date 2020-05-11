@@ -7,11 +7,11 @@
 	<div class="tools"> 
 <p> 
       <div style="float: right;">Полезные ссылки </div> 
-
+<p>
 <div style="float: right;"> <a href="http://google.com/">ссылка на Гугл</a> </div> 
-
+<p>
 <div style="float: right;"> <a href="http://google.com/">ссылка на Гугл</a> </div> 
-
+<p>
 <div style="float: right;"> <a href="http://google.com/">ссылка на Гугл</a> </div> 
 </div>
 	
