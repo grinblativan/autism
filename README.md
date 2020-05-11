@@ -8,9 +8,6 @@
 <img src="autism-3759586_960_720.jpg">
 <html lang="ru-RU" prefix="og: http://ogp.me/ns#">
 <head>
-<meta name="google-site-verification" content="ITwSKWqtAkP_qYXdV-8QG3bTYoqjmhcByUdFFQSNWuc" />
-<meta charset="UTF-8" />
-<meta name='yandex-verification' content='730b093de93999f0' />
 <title>Тест на Аутизм АТЕК для оценки динамики и выявления проблем - StopAutism</title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="stylesheet" type="text/css" media="all" href="http://stopautism.ru/wp-content/themes/ilost/style.css" />
