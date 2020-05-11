@@ -6,9 +6,9 @@
 	
 	<div class="tools"> 
 <div style="float: right;">Полезные ссылки 
-	<a href="http://google.com/">ссылка на Гугл</a> </div> 
-	<a href="http://google.com/">ссылка на Гугл</a> </div> 
-	<a href="http://google.com/">ссылка на Гугл</a> </div> 
+<div style="float: right;"> <a href="http://google.com/">ссылка на Гугл</a> </div> 
+<div style="float: right;"> <a href="http://google.com/">ссылка на Гугл</a> </div> 
+<div style="float: right;"> <a href="http://google.com/">ссылка на Гугл</a> </div> 
 </div>
 	
 <img src="autism-3759586_960_720.jpg">
