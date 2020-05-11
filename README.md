@@ -237,3 +237,78 @@
 <div>Тест АТЕК не является диагностическим тестом, а служит для оценки динамики. Тест не предназначен для подтверждения наличия аутизма, для точной постановки диагноза необходимо обратиться к специалистам.</div>
 <script type="text/javascript">// <![CDATA[
 function ge (id)
+{
+ return document.getElementById (id); 
+}
+
+function lz (number, len)
+{
+ if (String (number).length >= len)
+  return number;
+ var leading_zeroes = '';
+ for (var i = 0; i < len - String (number).length; i++)
+  leading_zeroes += '0';
+ return leading_zeroes + number;
+}
+
+function calc_sub (sub)
+{
+ var r = 0;
+ for (var i = 1; i <= sub.q; i++)
+ {
+  var id = "Select" + String (sub.s) + lz (i, 2);
+  var v = ge (id).value;
+  if (v == "-1")
+  {
+   alert ("Вы не заполнили раздел " + String (sub.s) + " вопрос " + String (i) + "!");
+   ge (id).focus ();
+   ge (id).scrollIntoView (true);
+   return {"ok":false, "v": 0};
+  }
+  r += Number (v);
+ }
+ return {"ok":true, "v": r};
+}
+
+function calc ()
+{
+ var p1 = {"s": 1, "q": 14};
+ var p2 = {"s": 2, "q": 20};
+ var p3 = {"s": 3, "q": 18};
+ var p4 = {"s": 4, "q": 25};
+
+ var x1 = calc_sub (p1);
+ if (!x1.ok)
+  return;
+
+ var x2 = calc_sub (p2);
+ if (!x2.ok)
+  return;
+
+ var x3 = calc_sub (p3);
+ if (!x3.ok)
+  return;
+
+ var x4 = calc_sub (p4);
+ if (!x4.ok)
+  return;
+
+ var res = x1.v + x2.v + x3.v + x4.v;
+
+ ge ('test-results').innerHTML = "<ul><li>Речь/Язык/Коммуникативные навыки: <b>" + String (x1.v) + "</b></li>" + "<li>Социализация: <b>" + String (x2.v) + "</b></li>" + "<li>Сенсорные навыки/Познавательные способности: <b>" + String (x3.v) + "</b></li>" + "<li>Здоровье/Физическое развитие/Поведение: <b>" + String (x4.v) + "</b></li>" + "<li><b>ОБЩИЙ БАЛЛ: " + String (res) + "</b></li></ul>";
+}
+// ]]&gt;</script><div id="text-2" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
