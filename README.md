@@ -5,6 +5,7 @@
  	<title>Фоновое изображение с помощью HTML</title>
  </head>
  <body bgcolor="#000" background="psychology-1959758_960_720.jpg">
+	 
 	<p>Здесь фоновое изображение устанавливается с помощью атрибута background тега body.</p>
  </body>
 </html
