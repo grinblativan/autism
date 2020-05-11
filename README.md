@@ -2,7 +2,15 @@
 
 <p>
     Это абзац текста, в котором содержится 
-    <a href="http://google.com/">ссылка на Гугл</a>. 
+    <a href="http://google.com/">ссылка на Гугл</a>.
+	
+	<div class="tools">
+<div style="float: left;">Текст слева</div>
+<div>Текст по центру</div> 
+<div style="float: right;">Текст справа</div> 
+</div>
+
+
     После текста идет картинка:
 <img src="autism-3759586_960_720.jpg">
 
