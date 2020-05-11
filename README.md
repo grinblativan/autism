@@ -9,7 +9,12 @@
 <html lang="ru-RU" prefix="og: http://ogp.me/ns#">
 <head>
 
-
+<div class="title">
+      <h2>Тест на Аутизм АТЕК для оценки динамики и выявления проблем</h2>
+    </div>
+    <div class="entry">
+    	<form id="Screen1">
+<div align="center">
 
       <h2>Тест на Аутизм АТЕК для оценки динамики и выявления проблем</h2>
     </div>
