@@ -8,7 +8,7 @@
 <img src="autism-3759586_960_720.jpg">
 
 
-<html lang="ru-RU" prefix="og: http://ogp.me/ns#">
+
 
 <head>
 <title>Тест на Аутизм АТЕК для оценки динамики и выявления проблем - StopAutism</title>
