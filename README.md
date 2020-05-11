@@ -14,7 +14,7 @@
     </div>
     <div class="entry">
     	<form id="Screen1">
-<div align="center">
+<div align="center"> </div>
 
       <h2>Тест на Аутизм АТЕК для оценки динамики и выявления проблем</h2>
     </div>
