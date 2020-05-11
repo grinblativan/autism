@@ -18,7 +18,7 @@
 
 <!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Тест АТЕК предназначен для оценки динамики развития пациентов с аутизмом. Рекомендуется проходить тест и фиксировать результаты каждый месяц."/>
-</ul></nav></header>
+
 <hr/><div id="content">
 <article>
     <section id="post-22" class="post-22 page type-page status-publish hentry">
