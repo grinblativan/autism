@@ -5,9 +5,13 @@
     <a href="http://google.com/">ссылка на Гугл</a>.
 	
 	<div class="tools"> 
-<div style="float: right;">Полезные ссылки 
+<p> 
+      <div style="float: right;">Полезные ссылки </div> 
+
 <div style="float: right;"> <a href="http://google.com/">ссылка на Гугл</a> </div> 
+
 <div style="float: right;"> <a href="http://google.com/">ссылка на Гугл</a> </div> 
+
 <div style="float: right;"> <a href="http://google.com/">ссылка на Гугл</a> </div> 
 </div>
 	
