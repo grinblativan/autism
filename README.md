@@ -4,9 +4,7 @@
     Это абзац текста, в котором содержится 
     <a href="http://google.com/">ссылка на Гугл</a>.
 	
-	<div class="tools">
-<div style="float: left;">Текст слева</div>
-<div>Текст по центру</div> 
+<div class="tools"> 
 <div style="float: right;">Текст справа</div> 
 </div>
 
