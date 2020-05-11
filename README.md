@@ -10,19 +10,7 @@
 
 
 
-<head>
-<title>Тест на Аутизм АТЕК для оценки динамики и выявления проблем - StopAutism</title>
-<link rel="profile" href="http://gmpg.org/xfn/11" />
-<link rel="stylesheet" type="text/css" media="all" href="http://stopautism.ru/wp-content/themes/ilost/style.css" />
-<link rel="pingback" href="http://stopautism.ru/xmlrpc.php" />
 
-<!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Тест АТЕК предназначен для оценки динамики развития пациентов с аутизмом. Рекомендуется проходить тест и фиксировать результаты каждый месяц."/>
-
-<hr/><div id="content">
-<article>
-    <section id="post-22" class="post-22 page type-page status-publish hentry">
-   	<div class="title">
       <h2>Тест на Аутизм АТЕК для оценки динамики и выявления проблем</h2>
     </div>
     <div class="entry">
